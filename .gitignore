@@ -1,7 +1,7 @@
-.dot
-.csv
-.png
-.pdf
+*.dot
+*.csv
+*.png
+*.pdf
 tmp
 
 
